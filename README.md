@@ -22,9 +22,3 @@ All passwords: **`Password123!`**
 | `author` | Author |
 | `writer2` | Author (second one, to show "own posts only") |
 | `reader` | Subscriber |
-
-## Teaching walkthrough
-
-See **[STEPS.md](STEPS.md)** — 12 steps from XAMPP setup to dynamic roles, with demo scripts and practice tasks.
-
-Requires PHP 8.1+ (any current XAMPP). Tested on MySQL 8.0.
